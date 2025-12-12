@@ -47,7 +47,7 @@ Following these steps, you can link the sensor to the cloud, retrieve its data, 
 Clone this repository in a folder of your choice by navigating to the folder and executing the following command in a terminal:
 ```bash
 git clone https://github.com/giuliab00/AmbientIntelligence25
-cd tuya_cloud_interface
+cd AmbientIntelligence25
 ```
 
 8. Create a .env file
