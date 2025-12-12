@@ -46,7 +46,7 @@ Following these steps, you can link the sensor to the cloud, retrieve its data, 
 7. Set Up the Tuya Cloud Interface Project
 Clone this repository in a folder of your choice by navigating to the folder and executing the following command in a terminal:
 ```bash
-git clone https://github.com/yourusername/tuya_cloud_interface.git
+git clone https://github.com/giuliab00/AmbientIntelligence25
 cd tuya_cloud_interface
 ```
 
